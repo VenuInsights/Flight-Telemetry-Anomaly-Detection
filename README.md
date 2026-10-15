@@ -4,7 +4,7 @@ An interactive machine-learning project for exploring simulated turbofan engine 
 
 **GitHub Repository:** [Flight-Telemetry-Anomaly-Detection](https://github.com/VenuInsights/Flight-Telemetry-Anomaly-Detection)
 
-**Live Dashboard:** [Open the Streamlit Dashboard](YOUR_STREAMLIT_APP_URL)
+**Live Dashboard:** [Open the Streamlit Dashboard](https://flight-telemetry-anomaly-detection-11.streamlit.app/)
 
 ## Overview
 
