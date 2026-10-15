@@ -1,0 +1,4 @@
+model,detected,missed,false_positives,detection_rate_percent,false_positive_rate_percent
+Isolation Forest,2,98,76,2.0,1.84
+Local Outlier Factor,100,0,82,100.0,1.99
+Z-score,98,2,7,98.0,0.17
